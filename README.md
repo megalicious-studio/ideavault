@@ -5,8 +5,6 @@ IeaIdeaVault - Future Ideas
 
 Capture, organize and never lose a great idea again.
 
----
-
 ## About
 
 IdeaVault is a personal idea storage app for iOS. Add titles, 
